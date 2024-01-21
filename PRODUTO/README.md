@@ -7,3 +7,5 @@ Senha: wGVS3etvzGmE
 
 <h2>CONFIRA ABAIXO O PAINEL DE CONTROLE DOS SEUS POSTS AUTOMÁTICOS!</h2>
 <img src="https://i.ibb.co/crDz7G2/Screenshot-2024-01-20-at-23-09-01-My-Zaps-Zapier.png" alt="Screenshot-2024-01-20-at-23-09-01-My-Zaps-Zapier" border="0">
+
+<h1>LEGAL NÉ? AGORA VOCÊ PODE DIVULGAR A SUA EMPRESA AUTOMATICAMENTE TODOS OS DIAS!</h1>
